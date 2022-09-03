@@ -1,18 +1,18 @@
 export const data = {
   "key": "v-1020f180",
   "path": "/components/",
-  "title": "Hi~",
+  "title": "Hi~ 2323",
   "lang": "zh-CN",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1662179265000,
+    "updatedTime": 1662181683000,
     "contributors": [
       {
         "name": "AuroraHan",
         "email": "1224195854@qq.com",
-        "commits": 1
+        "commits": 2
       }
     ]
   },

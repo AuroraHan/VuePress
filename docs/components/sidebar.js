@@ -4,7 +4,7 @@ module.exports = [
     collapsable: true,
     children: [
       {
-        text: "Button 按钮",
+        text: "新的",
         link: "/components/pages/Button",
       },
     ],
