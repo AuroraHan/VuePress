@@ -4,8 +4,8 @@ module.exports = [
     collapsable: true,
     children: [
       {
-        text: "新的",
-        link: "/components/pages/Button",
+        text: "基础JS",
+        link: "/components/pages/javascript/Basejs",
       },
     ],
   },
@@ -14,8 +14,8 @@ module.exports = [
     collapsable: true,
     children: [
       {
-        text: "Button 按钮",
-        link: "/components/pages/Button",
+        text: "基础TS",
+        link: "/components/pages/typescript/Basets",
       },
     ],
   },
@@ -24,8 +24,18 @@ module.exports = [
     collapsable: true,
     children: [
       {
-        text: "Button 按钮",
-        link: "/components/pages/Button",
+        text: "基础Vue",
+        link: "/components/pages/vue/Basevue",
+      },
+    ],
+  },
+  {
+    text: "Git",
+    collapsable: true,
+    children: [
+      {
+        text: "基本操作",
+        link: "/components/pages/git/Git",
       },
     ],
   },

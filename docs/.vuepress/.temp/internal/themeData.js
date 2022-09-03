@@ -70,8 +70,8 @@ export const themeData = {
         "collapsable": true,
         "children": [
           {
-            "text": "新的",
-            "link": "/components/pages/Button"
+            "text": "基础JS",
+            "link": "/components/pages/javascript/Basejs"
           }
         ]
       },
@@ -80,8 +80,8 @@ export const themeData = {
         "collapsable": true,
         "children": [
           {
-            "text": "Button 按钮",
-            "link": "/components/pages/Button"
+            "text": "基础TS",
+            "link": "/components/pages/typescript/Basets"
           }
         ]
       },
@@ -90,8 +90,18 @@ export const themeData = {
         "collapsable": true,
         "children": [
           {
-            "text": "Button 按钮",
-            "link": "/components/pages/Button"
+            "text": "基础Vue",
+            "link": "/components/pages/vue/Basevue"
+          }
+        ]
+      },
+      {
+        "text": "Git",
+        "collapsable": true,
+        "children": [
+          {
+            "text": "基本操作",
+            "link": "/components/pages/git/Git"
           }
         ]
       },
@@ -128,6 +138,7 @@ export const themeData = {
     ]
   },
   "sidebarDepth": 2,
+  "lastUpdated": true,
   "locales": {
     "/": {
       "selectLanguageName": "English"
@@ -139,7 +150,6 @@ export const themeData = {
   "selectLanguageAriaLabel": "Select language",
   "editLink": true,
   "editLinkText": "Edit this page",
-  "lastUpdated": true,
   "lastUpdatedText": "Last Updated",
   "contributors": true,
   "contributorsText": "Contributors",

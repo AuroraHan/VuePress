@@ -8,6 +8,10 @@ const routeItems = [
   ["v-08bf7b6d","/components/pages/Slider.html",{"title":"Hello Slider"},["/components/pages/Slider","/components/pages/Slider.md"]],
   ["v-7d85779a","/document/introduction/",{"title":"Hello Introduction"},["/document/introduction/index.html","/document/introduction/README.md"]],
   ["v-5851f53c","/document/tips/",{"title":"Hello Tips"},["/document/tips/index.html","/document/tips/README.md"]],
+  ["v-2320ddaf","/components/pages/git/Git.html",{"title":"Hello Git"},["/components/pages/git/Git","/components/pages/git/Git.md"]],
+  ["v-e8921530","/components/pages/javascript/Basejs.html",{"title":""},["/components/pages/javascript/Basejs","/components/pages/javascript/Basejs.md"]],
+  ["v-55b7d5ec","/components/pages/typescript/Basets.html",{"title":"基础TypeScript"},["/components/pages/typescript/Basets","/components/pages/typescript/Basets.md"]],
+  ["v-37f31dd0","/components/pages/vue/Basevue.html",{"title":"Vue 基础"},["/components/pages/vue/Basevue","/components/pages/vue/Basevue.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
 ]
 

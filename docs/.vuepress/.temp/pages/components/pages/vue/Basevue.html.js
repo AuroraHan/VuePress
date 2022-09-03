@@ -1,22 +1,16 @@
 export const data = {
-  "key": "v-1020f180",
-  "path": "/components/",
-  "title": "Hi~ 2323",
+  "key": "v-37f31dd0",
+  "path": "/components/pages/vue/Basevue.html",
+  "title": "Vue 基础",
   "lang": "zh-CN",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1662182135000,
-    "contributors": [
-      {
-        "name": "AuroraHan",
-        "email": "1224195854@qq.com",
-        "commits": 3
-      }
-    ]
+    "updatedTime": null,
+    "contributors": []
   },
-  "filePathRelative": "components/README.md"
+  "filePathRelative": "components/pages/vue/Basevue.md"
 }
 
 if (import.meta.webpackHot) {

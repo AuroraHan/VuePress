@@ -24,6 +24,7 @@ module.exports = {
     navbar,
     sidebar,
     sidebarDepth: 2, // 侧边栏显示2级
+    lastUpdated: true,
   },
   plugins: [
     [
