@@ -13,7 +13,16 @@ export const data = {
       "children": []
     }
   ],
-  "git": {},
+  "git": {
+    "updatedTime": 1662179265000,
+    "contributors": [
+      {
+        "name": "AuroraHan",
+        "email": "1224195854@qq.com",
+        "commits": 1
+      }
+    ]
+  },
   "filePathRelative": "components/pages/InputNumber.md"
 }
 

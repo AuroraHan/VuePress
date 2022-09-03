@@ -26,7 +26,16 @@ export const data = {
   },
   "excerpt": "",
   "headers": [],
-  "git": {},
+  "git": {
+    "updatedTime": 1662179265000,
+    "contributors": [
+      {
+        "name": "AuroraHan",
+        "email": "1224195854@qq.com",
+        "commits": 1
+      }
+    ]
+  },
   "filePathRelative": "README.md"
 }
 

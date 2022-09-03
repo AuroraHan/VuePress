@@ -1,8 +1,8 @@
 export const siteData = {
   "base": "/",
   "lang": "zh-CN",
-  "title": "UI-LIB",
-  "description": "组件库",
+  "title": "AuroraHan",
+  "description": "个人博客",
   "head": [
     [
       "link",

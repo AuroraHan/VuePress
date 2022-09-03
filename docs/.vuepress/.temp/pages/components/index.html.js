@@ -1,12 +1,21 @@
 export const data = {
   "key": "v-1020f180",
   "path": "/components/",
-  "title": "Hello Components",
+  "title": "Hi~",
   "lang": "zh-CN",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
-  "git": {},
+  "git": {
+    "updatedTime": 1662179265000,
+    "contributors": [
+      {
+        "name": "AuroraHan",
+        "email": "1224195854@qq.com",
+        "commits": 1
+      }
+    ]
+  },
   "filePathRelative": "components/README.md"
 }
 

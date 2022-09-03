@@ -2,7 +2,7 @@ export const themeData = {
   "logo": "/img/logo.png",
   "navbar": [
     {
-      "text": "组件",
+      "text": "Home",
       "link": "/components/"
     },
     {
@@ -57,10 +57,44 @@ export const themeData = {
           ]
         }
       ]
+    },
+    {
+      "text": "External",
+      "link": "https://github.com/AuroraHan"
     }
   ],
   "sidebar": {
     "/components/": [
+      {
+        "text": "JavaScript",
+        "collapsable": true,
+        "children": [
+          {
+            "text": "Button 按钮",
+            "link": "/components/pages/Button"
+          }
+        ]
+      },
+      {
+        "text": "TypeScript",
+        "collapsable": true,
+        "children": [
+          {
+            "text": "Button 按钮",
+            "link": "/components/pages/Button"
+          }
+        ]
+      },
+      {
+        "text": "Vue",
+        "collapsable": true,
+        "children": [
+          {
+            "text": "Button 按钮",
+            "link": "/components/pages/Button"
+          }
+        ]
+      },
       {
         "text": "通用",
         "collapsable": true,
