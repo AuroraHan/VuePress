@@ -7,8 +7,14 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1662192503000,
+    "contributors": [
+      {
+        "name": "AuroraHan",
+        "email": "1224195854@qq.com",
+        "commits": 1
+      }
+    ]
   },
   "filePathRelative": "components/pages/typescript/Basets.md"
 }

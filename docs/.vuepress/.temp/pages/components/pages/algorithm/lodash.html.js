@@ -1,29 +1,23 @@
 export const data = {
-  "key": "v-e8921530",
-  "path": "/components/pages/javascript/Basejs.html",
-  "title": "基础知识",
+  "key": "v-38f5cd79",
+  "path": "/components/pages/algorithm/lodash.html",
+  "title": "Lodash",
   "lang": "zh-CN",
   "frontmatter": {},
   "excerpt": "",
   "headers": [
     {
       "level": 2,
-      "title": "大",
-      "slug": "大",
+      "title": "chunk",
+      "slug": "chunk",
       "children": []
     }
   ],
   "git": {
-    "updatedTime": 1662192503000,
-    "contributors": [
-      {
-        "name": "AuroraHan",
-        "email": "1224195854@qq.com",
-        "commits": 1
-      }
-    ]
+    "updatedTime": null,
+    "contributors": []
   },
-  "filePathRelative": "components/pages/javascript/Basejs.md"
+  "filePathRelative": "components/pages/algorithm/lodash.md"
 }
 
 if (import.meta.webpackHot) {

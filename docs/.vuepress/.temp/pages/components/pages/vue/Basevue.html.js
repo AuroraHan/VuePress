@@ -5,10 +5,29 @@ export const data = {
   "lang": "zh-CN",
   "frontmatter": {},
   "excerpt": "",
-  "headers": [],
+  "headers": [
+    {
+      "level": 3,
+      "title": "watch",
+      "slug": "watch",
+      "children": []
+    },
+    {
+      "level": 3,
+      "title": "watchEffect",
+      "slug": "watcheffect",
+      "children": []
+    }
+  ],
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1662192503000,
+    "contributors": [
+      {
+        "name": "AuroraHan",
+        "email": "1224195854@qq.com",
+        "commits": 1
+      }
+    ]
   },
   "filePathRelative": "components/pages/vue/Basevue.md"
 }

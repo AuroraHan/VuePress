@@ -9,10 +9,12 @@ export const pagesData = {
   "v-5d612751": () => import(/* webpackChunkName: "v-5d612751" */"D:/file/Web/UI-Vuepress2.0/docs/.vuepress/.temp/pages/components/pages/InputNumber.html.js").then(({ data }) => data),
   // path: /components/pages/Slider.html
   "v-08bf7b6d": () => import(/* webpackChunkName: "v-08bf7b6d" */"D:/file/Web/UI-Vuepress2.0/docs/.vuepress/.temp/pages/components/pages/Slider.html.js").then(({ data }) => data),
-  // path: /document/introduction/
-  "v-7d85779a": () => import(/* webpackChunkName: "v-7d85779a" */"D:/file/Web/UI-Vuepress2.0/docs/.vuepress/.temp/pages/document/introduction/index.html.js").then(({ data }) => data),
   // path: /document/tips/
   "v-5851f53c": () => import(/* webpackChunkName: "v-5851f53c" */"D:/file/Web/UI-Vuepress2.0/docs/.vuepress/.temp/pages/document/tips/index.html.js").then(({ data }) => data),
+  // path: /document/introduction/
+  "v-7d85779a": () => import(/* webpackChunkName: "v-7d85779a" */"D:/file/Web/UI-Vuepress2.0/docs/.vuepress/.temp/pages/document/introduction/index.html.js").then(({ data }) => data),
+  // path: /components/pages/algorithm/lodash.html
+  "v-38f5cd79": () => import(/* webpackChunkName: "v-38f5cd79" */"D:/file/Web/UI-Vuepress2.0/docs/.vuepress/.temp/pages/components/pages/algorithm/lodash.html.js").then(({ data }) => data),
   // path: /components/pages/git/Git.html
   "v-2320ddaf": () => import(/* webpackChunkName: "v-2320ddaf" */"D:/file/Web/UI-Vuepress2.0/docs/.vuepress/.temp/pages/components/pages/git/Git.html.js").then(({ data }) => data),
   // path: /components/pages/javascript/Basejs.html

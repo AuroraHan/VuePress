@@ -30,6 +30,16 @@ module.exports = [
     ],
   },
   {
+    text: "Algorithm",
+    collapsable: true,
+    children: [
+      {
+        text: "Lodash",
+        link: "/components/pages/algorithm/lodash",
+      },
+    ],
+  },
+  {
     text: "Git",
     collapsable: true,
     children: [
