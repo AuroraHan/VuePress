@@ -14,8 +14,14 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1662304719000,
+    "contributors": [
+      {
+        "name": "AuroraHan",
+        "email": "1224195854@qq.com",
+        "commits": 1
+      }
+    ]
   },
   "filePathRelative": "components/pages/algorithm/lodash.md"
 }
