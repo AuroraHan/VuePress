@@ -19,10 +19,10 @@ export const pagesData = {
   "v-2320ddaf": () => import(/* webpackChunkName: "v-2320ddaf" */"D:/file/Web/UI-Vuepress2.0/docs/.vuepress/.temp/pages/components/pages/git/Git.html.js").then(({ data }) => data),
   // path: /components/pages/javascript/Basejs.html
   "v-e8921530": () => import(/* webpackChunkName: "v-e8921530" */"D:/file/Web/UI-Vuepress2.0/docs/.vuepress/.temp/pages/components/pages/javascript/Basejs.html.js").then(({ data }) => data),
-  // path: /components/pages/typescript/Basets.html
-  "v-55b7d5ec": () => import(/* webpackChunkName: "v-55b7d5ec" */"D:/file/Web/UI-Vuepress2.0/docs/.vuepress/.temp/pages/components/pages/typescript/Basets.html.js").then(({ data }) => data),
   // path: /components/pages/vue/Basevue.html
   "v-37f31dd0": () => import(/* webpackChunkName: "v-37f31dd0" */"D:/file/Web/UI-Vuepress2.0/docs/.vuepress/.temp/pages/components/pages/vue/Basevue.html.js").then(({ data }) => data),
+  // path: /components/pages/typescript/Basets.html
+  "v-55b7d5ec": () => import(/* webpackChunkName: "v-55b7d5ec" */"D:/file/Web/UI-Vuepress2.0/docs/.vuepress/.temp/pages/components/pages/typescript/Basets.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"D:/file/Web/UI-Vuepress2.0/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
 }

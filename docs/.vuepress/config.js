@@ -20,6 +20,7 @@ module.exports = {
   // 主题和它的配置
   theme: "@vuepress/theme-default",
   themeConfig: {
+    search: true,
     logo: "/img/logo.png",
     navbar,
     sidebar,

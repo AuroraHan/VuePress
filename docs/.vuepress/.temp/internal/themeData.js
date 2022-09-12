@@ -1,4 +1,5 @@
 export const themeData = {
+  "search": true,
   "logo": "/img/logo.png",
   "navbar": [
     {
