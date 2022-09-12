@@ -5,7 +5,45 @@ export const data = {
   "lang": "zh-CN",
   "frontmatter": {},
   "excerpt": "",
-  "headers": [],
+  "headers": [
+    {
+      "level": 2,
+      "title": "运行TS",
+      "slug": "运行ts",
+      "children": []
+    },
+    {
+      "level": 2,
+      "title": "类型断言",
+      "slug": "类型断言",
+      "children": []
+    },
+    {
+      "level": 2,
+      "title": "交叉类型",
+      "slug": "交叉类型",
+      "children": []
+    },
+    {
+      "level": 2,
+      "title": "接口 Interfaces",
+      "slug": "接口-interfaces",
+      "children": [
+        {
+          "level": 3,
+          "title": "鸭式辨型法",
+          "slug": "鸭式辨型法",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "接口与类型别名的区别",
+      "slug": "接口与类型别名的区别",
+      "children": []
+    }
+  ],
   "git": {
     "updatedTime": 1662192503000,
     "contributors": [

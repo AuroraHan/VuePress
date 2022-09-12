@@ -11,15 +11,21 @@ export const data = {
       "title": "Map知识",
       "slug": "map知识",
       "children": []
+    },
+    {
+      "level": 2,
+      "title": "杂项",
+      "slug": "杂项",
+      "children": []
     }
   ],
   "git": {
-    "updatedTime": 1662304719000,
+    "updatedTime": 1662392785000,
     "contributors": [
       {
         "name": "AuroraHan",
         "email": "1224195854@qq.com",
-        "commits": 2
+        "commits": 3
       }
     ]
   },

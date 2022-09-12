@@ -41,3 +41,11 @@ function singleNumber(nums: number[]): number {
     return result;
 };
 ```
+
+
+## 杂项
+- 数组相关
+```javascript
+    //比较两个数组是否相等
+    const isEqual = (a, b) => JSON.stringify(a) === JSON.stringify(b);
+```
