@@ -54,7 +54,7 @@ module.exports = [
     collapsable: true,
     children: [
       {
-        text: "Button 按钮",
+        text: "杂记",
         link: "/components/pages/Button",
       },
     ],

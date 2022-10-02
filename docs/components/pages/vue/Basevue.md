@@ -1,5 +1,26 @@
 # Vue 基础
 
+### style v-bind
+style 中使用v-bind将span变成红色
+```vue
+<template>
+  <span> 有开始循环了-开端 </span>  
+</template>
+<script setup>
+  import { reactive } from 'vue'
+  const state = reactive({
+    color: 'red'
+  })
+</script>
+<style scoped>
+  span {
+    /* 使用v-bind绑定state中的变量 */
+    color: v-bind('state.color');
+  }  
+</style>
+
+```
+
 ### watch
  watch 的第一个参数可以是不同形式的“数据源”：它可以是一个 ref (包括计算属性)、一个响应式对象、一个 getter 函数、或多个数据源组成的数组
  ```vue

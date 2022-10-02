@@ -11,8 +11,8 @@ const routeItems = [
   ["v-38f5cd79","/components/pages/algorithm/lodash.html",{"title":"Lodash"},["/components/pages/algorithm/lodash","/components/pages/algorithm/lodash.md"]],
   ["v-2320ddaf","/components/pages/git/Git.html",{"title":"Hello Git"},["/components/pages/git/Git","/components/pages/git/Git.md"]],
   ["v-e8921530","/components/pages/javascript/Basejs.html",{"title":"基础知识"},["/components/pages/javascript/Basejs","/components/pages/javascript/Basejs.md"]],
-  ["v-37f31dd0","/components/pages/vue/Basevue.html",{"title":"Vue 基础"},["/components/pages/vue/Basevue","/components/pages/vue/Basevue.md"]],
   ["v-55b7d5ec","/components/pages/typescript/Basets.html",{"title":"基础TypeScript"},["/components/pages/typescript/Basets","/components/pages/typescript/Basets.md"]],
+  ["v-37f31dd0","/components/pages/vue/Basevue.html",{"title":"Vue 基础"},["/components/pages/vue/Basevue","/components/pages/vue/Basevue.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
 ]
 

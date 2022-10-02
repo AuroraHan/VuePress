@@ -1,4 +1,9 @@
-<template><h1 id="button-按钮" tabindex="-1"><a class="header-anchor" href="#button-按钮" aria-hidden="true">#</a> Button 按钮</h1>
+<template><h1 id="理解scoped、-、-deep-、-v-deep的原理" tabindex="-1"><a class="header-anchor" href="#理解scoped、-、-deep-、-v-deep的原理" aria-hidden="true">#</a> 理解scoped、&gt;&gt;&gt;、/deep/、::v-deep的原理</h1>
+<h2 id="scoped-css的原理" tabindex="-1"><a class="header-anchor" href="#scoped-css的原理" aria-hidden="true">#</a> Scoped CSS的原理</h2>
+<p>无设置Scoped与设置Scoped的区别在哪？</p>
+<p>1、无设置Scoped。打包之后的结果是跟我们的代码一摸一样的，没有区别。</p>
+<p>2、设置Scoped。多了一个data-v-hash属性，给一个组件中的所有dom添加了一个独一无二的动态属性，然后，给CSS选择器额外添加一个对应的属性选择器来选择该组件中dom，这种做法使得样式只作用于含有该属性的dom——组件内部dom，可以使得组件之间的样式不互相污染。</p>
+<h1 id="button-按钮" tabindex="-1"><a class="header-anchor" href="#button-按钮" aria-hidden="true">#</a> Button 按钮</h1>
 <p>常用的操作按钮。</p>
 <h2 id="基础用法" tabindex="-1"><a class="header-anchor" href="#基础用法" aria-hidden="true">#</a> 基础用法</h2>
 <p>基础的按钮用法。</p>

@@ -8,6 +8,12 @@ export const data = {
   "headers": [
     {
       "level": 3,
+      "title": "style v-bind",
+      "slug": "style-v-bind",
+      "children": []
+    },
+    {
+      "level": 3,
       "title": "watch",
       "slug": "watch",
       "children": []
