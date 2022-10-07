@@ -1,5 +1,14 @@
 # Vue 基础
 
+### ref 与 reactive 区别
+ref 支持所有类型  reactive 支持应用类型 数组，对象 map，set
+
+ref 取值，赋值都需要.value  reactive 不需要.value
+
+reactive 不能直接赋值，否则破坏响应式对象
+
+解决方法：数组可以使用push  对象可以进行解构  添加一个对象，把数组作为一个属性去解决
+
 ### style v-bind
 style 中使用v-bind将span变成红色
 ```vue

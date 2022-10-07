@@ -1,4 +1,9 @@
 <template><h1 id="vue-基础" tabindex="-1"><a class="header-anchor" href="#vue-基础" aria-hidden="true">#</a> Vue 基础</h1>
+<h3 id="ref-与-reactive-区别" tabindex="-1"><a class="header-anchor" href="#ref-与-reactive-区别" aria-hidden="true">#</a> ref 与 reactive 区别</h3>
+<p>ref 支持所有类型  reactive 支持应用类型 数组，对象 map，set</p>
+<p>ref 取值，赋值都需要.value  reactive 不需要.value</p>
+<p>reactive 不能直接赋值，否则破坏响应式对象</p>
+<p>解决方法：数组可以使用push  对象可以进行解构  添加一个对象，把数组作为一个属性去解决</p>
 <h3 id="style-v-bind" tabindex="-1"><a class="header-anchor" href="#style-v-bind" aria-hidden="true">#</a> style v-bind</h3>
 <p>style 中使用v-bind将span变成红色</p>
 <div class="language-vue ext-vue line-numbers-mode"><pre v-pre class="shiki" style="background-color: var(--shiki-color-background)"><code><span class="line"><span style="color: var(--shiki-color-text)">&lt;</span><span style="color: var(--shiki-token-string-expression)">template</span><span style="color: var(--shiki-color-text)">&gt;</span></span>
