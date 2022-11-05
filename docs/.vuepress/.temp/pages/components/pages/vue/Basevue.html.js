@@ -8,6 +8,12 @@ export const data = {
   "headers": [
     {
       "level": 3,
+      "title": "$attrs 的几种用法",
+      "slug": "attrs-的几种用法",
+      "children": []
+    },
+    {
+      "level": 3,
       "title": "ref 与 reactive 区别",
       "slug": "ref-与-reactive-区别",
       "children": []
@@ -32,12 +38,12 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1664722918000,
+    "updatedTime": 1665154642000,
     "contributors": [
       {
         "name": "AuroraHan",
         "email": "1224195854@qq.com",
-        "commits": 3
+        "commits": 4
       }
     ]
   },

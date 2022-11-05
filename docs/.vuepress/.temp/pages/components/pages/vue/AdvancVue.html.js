@@ -1,20 +1,20 @@
 export const data = {
-  "key": "v-2320ddaf",
-  "path": "/components/pages/git/Git.html",
-  "title": "Hello Git",
+  "key": "v-26ee5faa",
+  "path": "/components/pages/vue/AdvancVue.html",
+  "title": "进阶",
   "lang": "zh-CN",
   "frontmatter": {},
   "excerpt": "",
   "headers": [
     {
-      "level": 3,
-      "title": "git 连接远程仓库",
-      "slug": "git-连接远程仓库",
+      "level": 2,
+      "title": "vite 设置@基础路径",
+      "slug": "vite-设置-基础路径",
       "children": []
     }
   ],
   "git": {
-    "updatedTime": 1662192503000,
+    "updatedTime": 1665913840000,
     "contributors": [
       {
         "name": "AuroraHan",
@@ -23,7 +23,7 @@ export const data = {
       }
     ]
   },
-  "filePathRelative": "components/pages/git/Git.md"
+  "filePathRelative": "components/pages/vue/AdvancVue.md"
 }
 
 if (import.meta.webpackHot) {

@@ -23,6 +23,8 @@ export const pagesComponents = {
   "v-e8921530": defineAsyncComponent(() => import(/* webpackChunkName: "v-e8921530" */"D:/file/Web/UI-Vuepress2.0/docs/.vuepress/.temp/pages/components/pages/javascript/Basejs.html.vue")),
   // path: /components/pages/typescript/Basets.html
   "v-55b7d5ec": defineAsyncComponent(() => import(/* webpackChunkName: "v-55b7d5ec" */"D:/file/Web/UI-Vuepress2.0/docs/.vuepress/.temp/pages/components/pages/typescript/Basets.html.vue")),
+  // path: /components/pages/vue/AdvancVue.html
+  "v-26ee5faa": defineAsyncComponent(() => import(/* webpackChunkName: "v-26ee5faa" */"D:/file/Web/UI-Vuepress2.0/docs/.vuepress/.temp/pages/components/pages/vue/AdvancVue.html.vue")),
   // path: /components/pages/vue/Basevue.html
   "v-37f31dd0": defineAsyncComponent(() => import(/* webpackChunkName: "v-37f31dd0" */"D:/file/Web/UI-Vuepress2.0/docs/.vuepress/.temp/pages/components/pages/vue/Basevue.html.vue")),
   // path: /404.html

@@ -21,6 +21,8 @@ export const pagesData = {
   "v-e8921530": () => import(/* webpackChunkName: "v-e8921530" */"D:/file/Web/UI-Vuepress2.0/docs/.vuepress/.temp/pages/components/pages/javascript/Basejs.html.js").then(({ data }) => data),
   // path: /components/pages/typescript/Basets.html
   "v-55b7d5ec": () => import(/* webpackChunkName: "v-55b7d5ec" */"D:/file/Web/UI-Vuepress2.0/docs/.vuepress/.temp/pages/components/pages/typescript/Basets.html.js").then(({ data }) => data),
+  // path: /components/pages/vue/AdvancVue.html
+  "v-26ee5faa": () => import(/* webpackChunkName: "v-26ee5faa" */"D:/file/Web/UI-Vuepress2.0/docs/.vuepress/.temp/pages/components/pages/vue/AdvancVue.html.js").then(({ data }) => data),
   // path: /components/pages/vue/Basevue.html
   "v-37f31dd0": () => import(/* webpackChunkName: "v-37f31dd0" */"D:/file/Web/UI-Vuepress2.0/docs/.vuepress/.temp/pages/components/pages/vue/Basevue.html.js").then(({ data }) => data),
   // path: /404.html
